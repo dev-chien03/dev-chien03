@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @dev-chien03
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @dev-chien03
 
-<!---
-dev-chien03/dev-chien03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! 😊
+
+## 👀 I’m interested in...
+- Web development 🌐
+- Mobile apps 📱
+- Machine learning 🤖
+- Backend technologies 🔧
+
+## 🌱 I’m currently learning...
+- Deep learning 📚
+- Advanced PHP and MySQL 🔍
+- Data Science and AI 🧠
+
+## 💞️ I’m looking to collaborate on...
+- Open source web projects 💻
+- Frontend/Backend development teams 🛠️
+- Machine learning projects 🧑‍💻
+
+## 😄 Pronouns: He/Him
+- Call me Chien! 😊
+
+## ⚡ Fun fact: 
+- I once built a simple mobile game in one weekend for fun 🎮!
+
